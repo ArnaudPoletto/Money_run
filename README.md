@@ -32,11 +32,11 @@ Contributors
 Money Run is brought to you by these amazing contributors:
 
 * [Arnaud Poletto](https://github.com/ArnaudPoletto)
-* Gauthier Boeshertz
-* Tesa27
-* Alvaro2112
-* Warhedgehog
-* Rafael Ramirez S
+* [Gauthier Boeshertz](https://github.com/gauthierboeshertz)
+* [Tesa27](https://github.com/Tesa27)
+* [Alvaro2112](https://github.com/Alvaro2112)
+* [Warhedgehog](https://github.com/Warhedgehog)
+* [Rafael Ramirez S](https://github.com/RafaelRamirezS)
 
 ## It's Adventure Time!
 
