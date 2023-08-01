@@ -25,6 +25,19 @@ Money Run transforms the real world into a virtual gameboard filled with hidden 
 4. Keep an eye on the leaderboard to see how you stack up against your friends.
 5. Explore new places, discover hidden corners of your city, and turn your neighborhood into a treasure-filled playground!
 
+## Contributors
+
+Contributors
+
+Money Run is brought to you by these amazing contributors:
+
+* [Arnaud Poletto](https://github.com/ArnaudPoletto)
+* Gauthier Boeshertz
+* Tesa27
+* Alvaro2112
+* Warhedgehog
+* Rafael Ramirez S
+
 ## It's Adventure Time!
 
 Money Run brings gaming out of your living room and into the real world! Experience the joy of outdoor exploration, learn new facts, and challenge your friends in this epic adventure. Grab your mobile phone, gather your crew, and let the quest for coins and knowledge begin!
